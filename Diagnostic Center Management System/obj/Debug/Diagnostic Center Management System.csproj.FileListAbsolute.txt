@@ -1,0 +1,61 @@
+E:\Diagnostic Center Management System\Diagnostic Center Management System\bin\Debug\Diagnostic Center Management System.exe.config
+E:\Diagnostic Center Management System\Diagnostic Center Management System\bin\Debug\Diagnostic Center Management System.exe
+E:\Diagnostic Center Management System\Diagnostic Center Management System\bin\Debug\Diagnostic Center Management System.pdb
+E:\Diagnostic Center Management System\Diagnostic Center Management System\bin\Debug\FontAwesome.Sharp.dll
+E:\Diagnostic Center Management System\Diagnostic Center Management System\obj\Debug\Diagnostic Center Management System.csproj.AssemblyReference.cache
+E:\Diagnostic Center Management System\Diagnostic Center Management System\obj\Debug\Diagnostic Center Management System.csproj.SuggestedBindingRedirects.cache
+E:\Diagnostic Center Management System\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.AdminDashboard.resources
+E:\Diagnostic Center Management System\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.Properties.Resources.resources
+E:\Diagnostic Center Management System\Diagnostic Center Management System\obj\Debug\Diagnostic Center Management System.csproj.GenerateResource.cache
+E:\Diagnostic Center Management System\Diagnostic Center Management System\obj\Debug\Diagnostic Center Management System.csproj.CoreCompileInputs.cache
+E:\Diagnostic Center Management System\Diagnostic Center Management System\obj\Debug\Diagnostic Center Management System.csproj.CopyComplete
+E:\Diagnostic Center Management System\Diagnostic Center Management System\obj\Debug\Diagnostic Center Management System.exe
+E:\Diagnostic Center Management System\Diagnostic Center Management System\obj\Debug\Diagnostic Center Management System.pdb
+E:\Diagnostic Center Management System\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.CreateTest.resources
+E:\Diagnostic Center Management System\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.EditTest.resources
+E:\Diagnostic Center Management System\Diagnostic Center Management System\bin\Debug\MetroFramework.Design.dll
+E:\Diagnostic Center Management System\Diagnostic Center Management System\bin\Debug\MetroFramework.dll
+E:\Diagnostic Center Management System\Diagnostic Center Management System\bin\Debug\MetroFramework.Fonts.dll
+E:\Diagnostic Center Management System\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.AddReceptionist.resources
+E:\Diagnostic Center Management System\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.ManageReceptionists.resources
+E:\Diagnostic Center Management System\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.ReceptionistDashboard.resources
+E:\Diagnostic Center Management System\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.UpdatePassword.resources
+E:\Diagnostic Center Management System\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.CreateInvoice.resources
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\bin\Debug\Diagnostic Center Management System.exe.config
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\bin\Debug\Diagnostic Center Management System.exe
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\bin\Debug\Diagnostic Center Management System.pdb
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\bin\Debug\FontAwesome.Sharp.dll
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\bin\Debug\MetroFramework.Design.dll
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\bin\Debug\MetroFramework.dll
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\bin\Debug\MetroFramework.Fonts.dll
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\obj\Debug\Diagnostic Center Management System.csproj.AssemblyReference.cache
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\obj\Debug\Diagnostic Center Management System.csproj.SuggestedBindingRedirects.cache
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.AddReceptionist.resources
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.AdminDashboard.resources
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.CreateInvoice.resources
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.CreateTest.resources
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.EditTest.resources
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.LoggedOut.resources
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.ManageReceptionists.resources
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.Properties.Resources.resources
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.ReceptionistDashboard.resources
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.UpdatePassword.resources
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\obj\Debug\Diagnostic Center Management System.csproj.GenerateResource.cache
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\obj\Debug\Diagnostic Center Management System.csproj.CoreCompileInputs.cache
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\obj\Debug\Diagnostic Center Management System.csproj.CopyComplete
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\obj\Debug\Diagnostic Center Management System.exe
+E:\Diagnostic Center Management System Backup\Diagnostic Center Management System\obj\Debug\Diagnostic Center Management System.pdb
+E:\Diagnostic Center Management System\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.LoginForm.resources
+E:\Diagnostic Center Management System\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.LoggedOut.resources
+E:\Diagnostic Center Management System\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.AdminSalesReport.resources
+E:\Diagnostic Center Management System\Diagnostic Center Management System\bin\Debug\LiveCharts.dll
+E:\Diagnostic Center Management System\Diagnostic Center Management System\bin\Debug\LiveCharts.WinForms.dll
+E:\Diagnostic Center Management System\Diagnostic Center Management System\bin\Debug\LiveCharts.Wpf.dll
+E:\Diagnostic Center Management System\Diagnostic Center Management System\bin\Debug\LiveCharts.pdb
+E:\Diagnostic Center Management System\Diagnostic Center Management System\bin\Debug\LiveCharts.xml
+E:\Diagnostic Center Management System\Diagnostic Center Management System\bin\Debug\LiveCharts.WinForms.pdb
+E:\Diagnostic Center Management System\Diagnostic Center Management System\bin\Debug\LiveCharts.WinForms.xml
+E:\Diagnostic Center Management System\Diagnostic Center Management System\bin\Debug\LiveCharts.Wpf.pdb
+E:\Diagnostic Center Management System\Diagnostic Center Management System\bin\Debug\LiveCharts.Wpf.xml
+E:\Diagnostic Center Management System\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.ViewInvoices.resources
+E:\Diagnostic Center Management System\Diagnostic Center Management System\obj\Debug\Diagnostic_Center_Management_System.ReceptionistSalesReport.resources
